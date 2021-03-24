@@ -61,19 +61,19 @@ const steps = [
   },
   {
     id: '9',
-    message: 'Avalização',
+    message: 'Enviar formulário',
     trigger: 'submit'
   },
   {
     id: 'submit',
     options: [
-      { value: 'y', label: 'Yes', trigger: 'end-message' },
-      { value: 'n', label: 'No', trigger: 'no-submit' },
+      { value: 'y', label: 'Sim', trigger: 'end-message' },
+      { value: 'n', label: 'Não', trigger: 'no-submit' },
     ]
   },
   {
     id: 'no-submit',
-    message: 'Your information was not submitted.',
+    message: 'Suas informações não foram enviadas',
     end: true,
   },
   {
