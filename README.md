@@ -16,3 +16,7 @@ Ao finalizar o teste favor encaminhar para katia.monteiro@workalove.com colocand
 Em caso de dúvidas, pode acionar o Dener (31) 99870-9631.
 
 Boa sorte!  😉⚠️
+
+
+mockapi.io: https://605a60b027f0050017c04dc0.mockapi.io/users
+ChatBot: https://elbertribeiro.github.io/chatbot/
