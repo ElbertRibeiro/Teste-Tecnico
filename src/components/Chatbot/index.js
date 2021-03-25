@@ -74,14 +74,35 @@ const steps = [
   {
     id: 'no-submit',
     message: 'Suas informações não foram enviadas',
-    end: true,
+    trigger: 'avaliacao'
   },
   {
     id: 'end-message',
     component: <Post />,
     asMessage: true,
+    trigger: 'avaliacao'
+  },
+  {
+    id: 'avaliacao',
+    message: 'Por favor, validar este atendimento',
+    trigger: 'r-avaliacao'
+  },
+  {
+    id: 'r-avaliacao',
+    options: [
+      { value: '1', label: '⭐', trigger: 'end-avaliacao' },
+      { value: '2', label: '⭐⭐', trigger: 'end-avaliacao' },
+      { value: '3', label: '⭐⭐⭐', trigger: 'end-avaliacao'},
+      { value: '4', label: '⭐⭐⭐⭐', trigger: 'end-avaliacao'},
+      { value: '5', label: '⭐⭐⭐⭐⭐', trigger: 'end-avaliacao' }
+    ]
+  },
+  {
+    id: 'end-avaliacao',
+    message: 'obrigado pela sua avaliação',
     end: true,
   },
+
 ];
 
 export default steps;
