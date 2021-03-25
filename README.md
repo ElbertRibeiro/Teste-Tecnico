@@ -18,5 +18,8 @@ Em caso de dúvidas, pode acionar o Dener (31) 99870-9631.
 Boa sorte!  😉⚠️
 
 
-mockapi.io: https://605a60b027f0050017c04dc0.mockapi.io/users
-ChatBot: https://elbertribeiro.github.io/chatbot/
+-> Processo seletivo para Front-end :
+
+Para acessar o projeto ChatBot: https://elbertribeiro.github.io/chatbot/
+Para acessar os usuários cadastrados no mockapi.io: https://605a60b027f0050017c04dc0.mockapi.io/users
+Para acessar o repositório do projeto: https://github.com/elbertribeiro/chatbot
