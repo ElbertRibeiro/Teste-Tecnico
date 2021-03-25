@@ -84,7 +84,7 @@ const steps = [
   },
   {
     id: 'avaliacao',
-    message: 'Por favor, validar este atendimento',
+    message: 'Por favor, avaliar este atendimento',
     trigger: 'r-avaliacao'
   },
   {
