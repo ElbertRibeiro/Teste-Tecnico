@@ -1,25 +1,49 @@
-# Teste-Tecnico
-
-
-Ficamos muito felizes com o seu interesse em fazer parte do nosso time!!
-
-⚠️ Agora é só acessar o teste referente à vaga escolhida FRONT-END ou BACK-END. 
-
-- Dev back-end: https://drive.google.com/u/0/uc?id=1TD9FM4t6Q7RA_uKlaZZudBaqZX4uS0xt&export=download
-
-- Dev front-end: https://drive.google.com/u/0/uc?id=1CGmW3I6mFO8UEz9XBHinUPpVdx0JOkO0&export=download
-
-Não há um prazo determinado mas considerando que a vaga é para contratação imediata gostaria de contar com um retorno em até uma semana. Ok?!
-
-Ao finalizar o teste favor encaminhar para katia.monteiro@workalove.com colocando em cópia tech@workalove.com
-
-Em caso de dúvidas, pode acionar o Dener (31) 99870-9631.
-
-Boa sorte!  😉⚠️
-
-
--> Processo seletivo para Front-end :
-
 Para acessar o projeto ChatBot: https://elbertribeiro.github.io/chatbot/
 Para acessar os usuários cadastrados no mockapi.io: https://605a60b027f0050017c04dc0.mockapi.io/users
 Para acessar o repositório do projeto: https://github.com/elbertribeiro/chatbot
+
+
+<h1 align="center">
+  <img alt="dev.finances" title="dev.finances" src=".github/logo.svg" width="220px" />
+</h1>
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
+
+<p align="center">
+ <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
+
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="dev.finances" src=".github/devfinances.png" width="100%">
+</p>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- React
+- Axios
+
+## 💻 Projeto
+
+O dev.finances é uma aplicação de controle financeiro, onde é possível cadastrar e excluir transações e ver o saldo de entrada e saída 💰
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/7Vu9DzUaCZIV4nibzkjgB4/dev.finance%24-Maratona-Discover). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+---
+
