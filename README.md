@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O dev.finances é uma aplicação de controle financeiro, onde é possível cadastrar e excluir transações e ver o saldo de entrada e saída 💰
+O ChatBot é uma aplicação de controle financeiro, onde é possível cadastrar e excluir transações e ver o saldo de entrada e saída 💰
 Para acessar o projeto ChatBot: https://elbertribeiro.github.io/chatbot/
 Para acessar os usuários cadastrados no mockapi.io: https://605a60b027f0050017c04dc0.mockapi.io/users
 Para acessar o repositório do projeto: https://github.com/elbertribeiro/chatbot
